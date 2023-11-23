@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: page
+spec:
+  id: 7HP4wvd
+  title: "12121212"
+  content:
+    - component: Button
+      name: button
+    - component: Checkbox
+      name: checkbox
